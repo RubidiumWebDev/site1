@@ -1,1 +1,42 @@
-This is a test file created via API.
+- name: Quentin Glorieux
+  photo: Glorieux.webp
+  info: Associate Professor
+  status: PI
+  email: quentin.glorieux@lkb.upmc.fr
+  education1: Group leader of the ERC CoG project
+  education2: IUF Junior Fellow since 2018
+  education3: Marie Curie Postdoc at NIST (Bill Phillips group)
+  education4: PhD at Paris Diderot (Thomas Coudreau)
+  education5: MSc at Institut d'Optique
+  education6: see my full <a href="https://cv.quentinglorieux.fr/" target="_blank">CV</a>
+
+- name: Alberto Bramati
+  tagline: Italian Godfather
+  photo: Alberto.webp
+  info: Full Professor
+  status: PI
+  email: alberto.bramati@lkb.upmc.fr
+  education1: IUF Senior Fellow since 2018 
+  education2: Postdoc at LPL
+  education3: PhD at LKB
+
+- name: Hanna le Jeannic
+  tagline: Quantum Hanna
+  photo: Hanna.webp
+  info: CNRS Researcher
+  status: PI
+  email: hanna.lejeannic@lkb.upmc.fr
+  education1: Postdoc at NBI (Peter Lodhal group)
+  education2: PhD at LKB (Laurat group)
+  education3: MSc at ESPCI
+
+
+
+- name: Devang Naik
+  tagline: 
+  photo: devang.jpg
+  info: Postdoc, since 2024
+  status: postdoc
+  email: devang.naik@lkb.upmc.fr
+  education1: 
+  education2: 
