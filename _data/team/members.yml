@@ -1,42 +1,48 @@
-- name: Quentin Glorieux
-  photo: Glorieux.webp
-  info: Associate Professor
-  status: PI
-  email: quentin.glorieux@lkb.upmc.fr
-  education1: Group leader of the ERC CoG project
+- education1: Group leader of the ERC CoG project
   education2: IUF Junior Fellow since 2018
   education3: Marie Curie Postdoc at NIST (Bill Phillips group)
   education4: PhD at Paris Diderot (Thomas Coudreau)
   education5: MSc at Institut d'Optique
   education6: see my full <a href="https://cv.quentinglorieux.fr/" target="_blank">CV</a>
-
-- name: Alberto Bramati
-  tagline: Italian Godfather
-  photo: Alberto.webp
-  info: Full Professor
+  email: quentin.glorieux@lkb.upmc.fr
+  info: Associate Professor
+  name: Quentin Glorieux
+  photo: Glorieux.webp
   status: PI
-  email: alberto.bramati@lkb.upmc.fr
-  education1: IUF Senior Fellow since 2018 
+- education1: IUF Senior Fellow since 2018
   education2: Postdoc at LPL
   education3: PhD at LKB
-
-- name: Hanna le Jeannic
-  tagline: Quantum Hanna
-  photo: Hanna.webp
-  info: CNRS Researcher
+  email: alberto.bramati@lkb.upmc.fr
+  info: Full Professor
+  name: Alberto Bramati
+  photo: Alberto.webp
   status: PI
-  email: hanna.lejeannic@lkb.upmc.fr
-  education1: Postdoc at NBI (Peter Lodhal group)
+  tagline: Italian Godfather
+- education1: Postdoc at NBI (Peter Lodhal group)
   education2: PhD at LKB (Laurat group)
   education3: MSc at ESPCI
-
-
-
-- name: Devang Naik
-  tagline: 
-  photo: devang.jpg
-  info: Postdoc, since 2024
-  status: postdoc
+  email: hanna.lejeannic@lkb.upmc.fr
+  info: CNRS Researcher
+  name: Hanna le Jeannic
+  photo: Hanna.webp
+  status: PI
+  tagline: Quantum Hanna
+- education1: null
+  education2: null
   email: devang.naik@lkb.upmc.fr
-  education1: 
-  education2: 
+  info: Postdoc, since 2024
+  name: Devang Naik
+  photo: devang.jpg
+  status: postdoc
+  tagline: null
+- education1: ''
+  education2: ''
+  education3: ''
+  education4: ''
+  education5: ''
+  education6: ''
+  email: ''
+  info: mes infos
+  name: Test
+  photo: ''
+  status: ''
